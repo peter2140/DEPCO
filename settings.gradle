@@ -1,0 +1,4 @@
+rootProject.name = 'depco'
+include 'common'
+include 'Primary'
+include 'Witness'
